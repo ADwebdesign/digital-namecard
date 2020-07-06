@@ -2,12 +2,12 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Amy;Dudbridge;;;
-FN: Dudbridge  Amy 
+FN: Amy Dudbridge 
 ORG:Amy Dudbridge Website Design;
 TITLE:Owner
 EMAIL;type=INTERNET;type=WORK;type=pref:amy@amydudbridge.co.uk
 TEL;type=WORK;type=VOICE:07984 069614
-item1.ADR;type=WORK;type=pref:;;Chandos Business Centre\n87 Warwick Street\, Leamington Spa;;;CV31 2TN;UK
+item1.ADR;type=WORK;type=pref:;;Chandos Business Centre\n87 Warwick Street\nLeamington Spa;;;CV31 2TN;UK
 item1.X-ABADR:sg
 item2.URL;type=pref:amy@amydudbridge.co.uk
 item2.X-ABLabel:_$!<HomePage>!$_
